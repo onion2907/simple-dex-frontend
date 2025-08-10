@@ -1,0 +1,9 @@
+{
+  "chainId": 11155111,
+  "ammAddress": "0x788e02896a25bfa907d7950aaa92aa2dfefff386",
+  "token0": "0x97b5dde5216d9a02746799e15f09149f6eaaa799",
+  "token1": "0xcc06868ba5ce3808667d9c95994377989141b5da",
+  "token0Symbol": "TKNA",
+  "token1Symbol": "TKNB",
+  "decimals": 18"
+}
